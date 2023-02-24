@@ -438,12 +438,12 @@ nav ul li a:hover {
     /* root */
     :root {
         /* font_size */
-        --fs-2xl: 42px;
+        --fs-2xl: 40px;
         --fs-xl: 35px;
         --fs-lg: 25px;
-        --fs-md: 20px;
-        --fs-sm: 18px;
-        --fs-ss: 15px;
+        --fs-md: 18px;
+        --fs-sm: 15px;
+        --fs-ss: 12px;
     }
 }
 
